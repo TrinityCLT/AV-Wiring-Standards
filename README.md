@@ -2,7 +2,7 @@ AV-Wiring-Standards
 ===================
 
 #Introduction
-This is an effort to consolidate best practices and documentation for AV wiring specifically targeted by no limited to the education market.
+This is an effort to consolidate best practices and documentation for AV wiring specifically targeted but not limited to the education market. This document addresses Trinity University specifc needs but may be adapted as needed.
 
 #Color Code
 Any fiber or Cat(X) cable that is for AV systems will be **violet** in communication rooms and in the classroom or designated installation space.
