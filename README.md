@@ -5,7 +5,7 @@ AV-Wiring-Standards
 This is an effort to consolidate best practices and documentation for AV wiring specifically targeted but not limited to the education market. This document addresses Trinity University specifc needs but may be adapted as needed.
 
 #Color Code
-Any fiber or Cat(X) cable that is for AV systems will be **violet** in communication rooms and in the classroom or designated installation space.
+Any fiber or Cat(X) cable that is for AV systems will be **violet/purple** in communication rooms and in the classroom or designated installation space.
 
 If violet is unavailable or restricted from use a label with violet.  If the cables are similar and likely to be confused, put a big label of AV color that can't be missed at the termination point.
 
