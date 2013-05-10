@@ -23,4 +23,5 @@ All RS-232 connections must have cable restraint and be supplied with thumb scre
 
 ##License
 This document is available under the [CC BY-SA license](http://creativecommons.org/licenses/by-sa/3.0/). 
-!(http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png)
+
+![CC BY-SA Logo](http://mirrors.creativecommons.org/presskit/buttons/80x15/png/by-sa.png)
