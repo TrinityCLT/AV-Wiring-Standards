@@ -2,7 +2,7 @@ AV-Wiring-Standards
 ===================
 
 #Introduction
-This is an effort to consolidate best practices and documentation for AV wiring specifically targeted but not limited to the education market. This document addresses Trinity University specifc needs but may be adapted as needed.
+This is an effort to consolidate best practices and documentation for AV wiring specifically targeted but not limited to the education market. This document addresses [Trinity University](http://trinity.edu) specifc needs but may be adapted as needed.
 
 #Termination Labeling
 ##Color Code
@@ -20,3 +20,7 @@ Use Velcro only. No tie wraps should be used to anchor and support cables.
 
 #RS-232
 All RS-232 connections must have cable restraint and be supplied with thumb screws.
+
+##License
+This document is available under the [CC BY-SA license](http://creativecommons.org/licenses/by-sa/3.0/). 
+!(http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png)
