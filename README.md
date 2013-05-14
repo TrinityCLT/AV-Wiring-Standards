@@ -7,10 +7,10 @@ This is an effort to consolidate best practices and documentation for AV wiring 
 #Termination Labeling
 
 ##Color Code
-Any fiber or Category(X) cable that is for AV systems will be **violet/purple** in communication rooms and in the classroom or designated installation space.
+Any fiber or Category(X) cable that is for AV systems will be **purple** in communication rooms and in the classroom or designated installation space.
 
 ##Labels
-All labels should state "AV" in bold letters and "CLT x7323".  If the correct color cannot be used put a big sticker (violet/purple) nearby boldly stating that your color indicates AV cables, again with (CLT x7323). 
+All labels should state "AV" in bold letters and "CLT x7323".  If the correct color cannot be used put a big sticker (purple) nearby boldly stating that your color indicates AV cables, again with (CLT x7323). 
 
 Put a clear heat shrink wrap around each cable label.
 
@@ -18,6 +18,7 @@ Label each cable at both ends with both the source and destination (e.g., "from 
 
 If available use an alphanumeric code that matches the system schematics (e.g., "H1001", where H stands for HDMI and 1001 is shown on the schematic, and in a table as well, as running from, DVD 1 to Switcher Input 4."). 
 
+##Securing
 Use Velcro only. No tie wraps should be used to anchor and support cables. 
 
 ##Vendor Specific Needs
