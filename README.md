@@ -44,6 +44,6 @@ All RS-232 connections must have cable restraint and be supplied with thumb scre
 All effort must be made to avoid the use of gender changers and adapters for installation. Consultations with owner is required if deemed necessary.
 
 #License
-This document is available under the [CC BY-SA license](http://creativecommons.org/licenses/by-sa/3.0/). 
+This document is available under the [CC BY-SA license](http://creativecommons.org/licenses/by-sa/3.0/). Share alike.
 
 ![CC BY-SA Logo](http://mirrors.creativecommons.org/presskit/buttons/80x15/png/by-sa.png)
