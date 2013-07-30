@@ -2,7 +2,7 @@ AV-Wiring-Installation-Standards
 ===================
 
 #Introduction
-This is an effort to consolidate best practices and documentation for AV wiring specifically targeted but not limited to the education market. This document addresses [Trinity University](http://trinity.edu) specifc needs but may be adapted as needed.
+This is an effort to consolidate best practices and documentation for AV wiring specifically targeted but not limited to the education market. This document addresses [Trinity University](http://trinity.edu) specifc needs but may be adapted as needed. Anyone is free to copy and use.
 
 #Termination Labeling
 
