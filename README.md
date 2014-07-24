@@ -7,7 +7,7 @@ This is an effort to consolidate best practices and documentation for AV wiring 
 #Termination Labeling
 
 ##Color Code
-Any fiber or Category(X) cable that is for AV systems will be **purple** in communication rooms and in the classroom or designated installation space.
+Any fiber or Category(X) cable that is for AV systems signal transmission will be **purple** in communication rooms and in the classroom or designated installation space. All standard data cables will be **blue**.
 
 ##Labels
 All labels should state "AV" in bold letters and "CLT x7323".  If the correct color cannot be used put a big sticker (purple) nearby boldly stating that your color indicates AV cables, again with (CLT x7323). 
